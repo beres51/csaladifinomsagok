@@ -1,0 +1,72 @@
+h1 {
+    color: rgb(235, 72, 235);
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-weight: bold;
+    }
+
+h3 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    background-color:rgb(243, 177, 240);
+
+}
+h5 {color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    background-color: rgb(205, 243, 183);
+}
+img {
+    width: 350px;
+    height: 280px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px grey;
+    
+} 
+.img-div {
+    background-color:  rgb(205, 243, 183);
+
+}   
+h2 {color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    background-color:rgb(205, 243, 183);
+}
+h4 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: left; 
+    background-color:  rgb(205, 243, 183);
+}
+.content {
+    color:black;
+   
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+}
+li {
+    font-family: 'Roboto', sans-serif;
+}
+ol {
+    font-family: 'Roboto', sans-serif;
+    background-color:  rgb(205, 243, 183);
+}
+.table-bordered {
+    background-color: rgb(205, 243, 183); 
+    
+}
+tr {
+    line-height: 10px;
+}
+a:link {
+    color: black;
+}
+.nav-link {
+    color:rgb(25, 124, 99);
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+}
+span {
+    font-style: italic;
+}
